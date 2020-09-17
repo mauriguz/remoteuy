@@ -30,6 +30,16 @@ const companies = [
     },
   },
   {
+    picture: "https://www.dixtra.com/static/assets/images/dixtra-hex.png",
+    url: "https://dixtra.com",
+    name: "DIXTRA",
+    description: "We build beautiful and innovative digital products with react native and ruby on rails.",
+    meta: {
+      allowFullRemote: true,
+      hasPhysicalOffices: true,
+    },
+  },
+  {
     picture: "/images/logoAttica.svg",
     url: "http://atticalabs.com/",
     name: "Attica Labs",
